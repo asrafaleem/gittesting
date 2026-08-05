@@ -1,0 +1,35 @@
+⭐ Final Summary of Chapter 1
+Code will always exist because computers need precise instructions.
+Bad code slows development and can even cause projects to fail.
+Don't blame deadlines or managers—developers are responsible for code quality.
+Clean code helps you work faster in the long run.
+Clean code is:
+Simple
+Readable
+Easy to maintain
+Well-tested
+Does one thing well
+Uses meaningful names
+Write code for humans to read, because programmers spend more time reading than writing.
+Follow the Boy Scout Rule: leave the code a little cleaner every time you work on it.
+Reading is not enough—practice is the key to writing clean code.
+
+
+📌 Final Revision of Chapter 2 (Meaningful Names)
+Use intention-revealing names.
+Avoid disinformation.
+Make meaningful distinctions.
+Use pronounceable names.
+Use searchable names.
+Avoid encodings (don't use str, i, m_, etc.).
+Avoid mental mapping.
+Class names → Nouns.
+Method names → Verbs (get, set, is).
+Don't be cute (avoid jokes/slang).
+Pick one word per concept.
+Don't pun (don't use the same word for different meanings).
+Use solution domain names (technical terms).
+Use problem domain names (business terms).
+Add meaningful context.
+Don't add unnecessary context.
+Rename when you find a better name.
